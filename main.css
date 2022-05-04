@@ -1,0 +1,154 @@
+
+body{
+    background: #d1d0eb;
+}
+
+#title{
+    font: 3em monospace;
+    text-align: center;
+}
+
+button {
+    background: #bcbbc5;
+    font: 2em monospace;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.calculator{
+    border: solid 2px #000000;
+    display: flex;
+    flex-direction: row;
+    background: #8988ac;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    width: 40%;
+    height: 45%;
+}
+
+#total {
+    border: solid 0.5px #000000;
+    background: #d1d0eb;
+    font: 2.5em monospace;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 2%;
+    width: 90%;
+    height: 12%;
+}
+
+#a1 {
+    left: 14.6%;
+    top: 25%;
+    width: 20%;
+    height: 15%;
+}
+
+#a2 {
+    left: 38%;
+    top: 25%;
+    width: 20%;
+    height: 15%;
+}
+
+#a3 {
+    left: 61.5%;
+    top: 25%;
+    width: 20%;
+    height: 15%;
+}
+
+#adiv {
+    left: 85%;
+    top: 25%;
+    width: 20%;
+    height: 15%;
+}
+
+#a4 {
+    left: 14.6%;
+    top: 45%;
+    width: 20%;
+    height: 15%;
+}
+
+#a5 {
+    left: 38%;
+    top: 45%;
+    width: 20%;
+    height: 15%;
+}
+
+#a6 {
+    left: 61.5%;
+    top: 45%;
+    width: 20%;
+    height: 15%;
+}
+
+#amul {
+    left: 85%;
+    top: 45%;
+    width: 20%;
+    height: 15%;
+}
+
+#a7 {
+    left: 14.6%;
+    top: 65%;
+    width: 20%;
+    height: 15%;
+}
+
+#a8 {
+    left: 38%;
+    top: 65%;
+    width: 20%;
+    height: 15%;
+}
+
+#a9 {
+    left: 61.5%;
+    top: 65%;
+    width: 20%;
+    height: 15%;
+}
+
+#asub {
+    left: 85%;
+    top: 65%;
+    width: 20%;
+    height: 15%;
+}
+
+#acomma {
+    left: 14.6%;
+    top: 85%;
+    width: 20%;
+    height: 15%;
+}
+
+#a0 {
+    left: 38%;
+    top: 85%;
+    width: 20%;
+    height: 15%;
+}
+
+#aequal {
+    left: 61.5%;
+    top: 85%;
+    width: 20%;
+    height: 15%;
+}
+
+#aadd {
+    left: 85%;
+    top: 85%;
+    width: 20%;
+    height: 15%;
+}
